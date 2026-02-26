@@ -38,7 +38,7 @@
                 "guid": "{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}",
                 "hidden": false,
                 "icon": "https://raw.githubusercontent.com/ethansmothermon73/wsl-icons/main/icons8-ubuntu-20.png",
-                "name": "Ubuntu Linux",
+                "name": "Ubuntu 20.04.6 LTS",
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "\\\\wsl$\\Ubuntu-20.04\\home\\xcad",
                 "tabColor": "#021024"
@@ -47,7 +47,7 @@
                 "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
                 "hidden": false,
                 "icon": "https://raw.githubusercontent.com/ethansmothermon73/wsl-icons/main/icons8-fsociety-mask-20.png",
-                "name": "Kali Linux",
+                "name": "kali-linux",
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "\\\\wsl.localhost\\kali-linux\\home\\xcad",
                 "tabColor": "#540357"
